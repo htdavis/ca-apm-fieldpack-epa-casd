@@ -56,3 +56,12 @@ Changes for each version of the field pack.
 Version | Author | Comment
 --------|--------|--------
 1.0 | Hiko Davis | First bundled version of the field packs.
+
+## Support URL
+https://github.com/htdavis/ca-apm-fieldpack-epa-casd/issues
+
+## Short Description
+Monitor web engine statistics of CA Service Desk
+
+## Categories
+Integration
