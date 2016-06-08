@@ -1,5 +1,7 @@
 # EPAgent Plugin for CA Service Desk (1.0)
 
+#Description
+
 This is a plugin for monitoring web engine statistics for CA Service Desk.
 
 Metrics created for each web engine:
@@ -7,6 +9,7 @@ Metrics created for each web engine:
 + Most sessions at a time
 + Currently active sessions
 
+## Dependencies
 Tested with CA APM 9.7.1 EM, EPAgent 9.7.1, and Perl 5.22.
 
 ##Known Issues
@@ -56,3 +59,12 @@ Changes for each version of the field pack.
 Version | Author | Comment
 --------|--------|--------
 1.0 | Hiko Davis | First bundled version of the field packs.
+
+## Support URL
+https://github.com/htdavis/ca-apm-fieldpack-epa-casd/issues
+
+## Short Description
+Monitor web engine statistics of CA Service Desk
+
+## Categories
+Integration
