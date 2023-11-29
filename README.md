@@ -38,7 +38,7 @@ As a reminder, the data will should be sent back as a StringEvent as there is no
 
 Start the EPAgent using the provided control script in \<epa_home\>/bin.
 
-##How to debug and troubleshoot the field pack
+## How to debug and troubleshoot the field pack
 Update the root logger in \<epa_home\>/IntroscopeEPAgent.properties from INFO to DEBUG, then save. No need to restart the JVM.
 You can also manually execute the plugins from a console and use perl's built-in debugger.
 
